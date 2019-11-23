@@ -64,7 +64,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Customers.sql" />
-    <Build Include="dbo\Views\OfferView.sql" />
     <Build Include="dbo\Tables\Employees.sql" />
     <Build Include="dbo\Tables\Offers.sql" />
     <Build Include="dbo\Tables\PositionList.sql" />
